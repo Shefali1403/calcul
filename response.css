@@ -1,0 +1,17 @@
+.container{
+  top:354px;
+  left:149px;
+  width:100vw;
+}
+.box1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:100vw;
+}
+.box2{
+    width:100vw;
+}
+.box2 .row{
+    width:100vw;
+}
